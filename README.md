@@ -10,4 +10,5 @@
 ### Object.defineProperty
 ### Model pattern
 ### Yield function*
-### Points-for-memorization-jb
+### 
+ 
