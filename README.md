@@ -10,5 +10,5 @@
 ### Object.defineProperty
 ### Model pattern
 ### Yield function*
-### 
+### זליגת זיכרון
  
